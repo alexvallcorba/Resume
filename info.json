@@ -1,0 +1,20 @@
+{
+  "name": "Alex Vallcorba",
+  "website": "https://moderneggdesign/",
+  "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+  "github": "alexvallcorba",
+  "email": "alexgvallcorba@gmail.com",
+  "resume": "https://alexvallcorba.github.io/assets/Alex-Vallcorba-Resume.pdf",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Node",
+    "Wordpress",
+      "Adobe Illustrator"
+  ],
+  "otherSkills": [
+      "Surfing",
+      "Painting",
+      "Cooking"
+  ]
+}
